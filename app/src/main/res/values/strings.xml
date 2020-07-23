@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="refresh">Refresh</string>
+    <string name="errorMessage">Something went wrong, please try again</string>
+    <string name="internetMessage">No internet connection</string>
+    <string name="waitMessage">Please wait....</string>
+</resources>

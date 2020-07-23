@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boldText">20sp</dimen>
+    <dimen name="smallText">16sp</dimen>
+    <dimen name="imageSize">50dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="marginTop">5dp</dimen>
+    <dimen name="layHeight">120dp</dimen>
+</resources>
